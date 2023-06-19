@@ -1,0 +1,24 @@
+<html>
+<title>Wilsiane ADV</title>
+</head>
+<body bgcolor=#2A120A>
+
+<body>
+<img src="imglogo22.png" height="100px" width="200px"><h1 style="font-family:verdana;font-size:40;"><hr color='#B18904'>
+<center><FONT COLOR=#DBA901>Wilsiane Marques</center></h1>
+
+<center><img src="imgwilsiane.jpeg" height="300px" width="300px"></center>
+
+<h3 style="font-family:calibri;font-weight:400"><center><FONT COLOR=#F7F8E0> Dra. Wilsiane, uma advogada jovem, mas, cheia de experiências e muito estudiosa! Além de compor os quadros do escritório, ela também exerce uma função que merece muito respeito na área da saúde, como técnica em enfermagem.
+Advogada, mãe, esposa, filha, Relações Públicas, qualificada para dar aula, extremamente competente e ainda uma verdadeira heroína na saúde!</center></h3>
+<hr color='#B18904'>
+<h2>QUALIFICAÇÕES:</h2>
+<h4 style="font-family:calibri;font-weight:400"><center>Graduada em Direito, Relações Públicas e Pedagogia.</center></h4>
+<h4 style="font-family:calibri;font-weight:400"><center> Pós graduada em Direito e Processo Cívil;</center></h4>
+<h4 style="font-family:calibri;font-weight:400"><center> Direito Tributário, Docência em Ensino Superior</center></h4>
+<h4 style="font-family:calibri;font-weight:600"><center>OAB/DF 60287</center></h4>
+<hr color='#B18904'>
+<center><a href=atps.html style="color:white;text-decoration:none;" align="right"> <img src="imgvoltar.png"  height="20px" width="20px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<A href=https://www.instagram.com/wilsianemarques.adv/ "> <img src="imginsta.png"  height="20px" width="20px"></p></center>
+</body>
+</html>

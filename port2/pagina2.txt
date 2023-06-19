@@ -1,0 +1,20 @@
+<html>
+<title>Clodoaldo ADV</title>
+</head>
+<body bgcolor=#2A120A>
+<body>
+<img src="imglogo22.png" height="100px" width="200px"><h1 style="font-family:verdana;font-size:40;position:"><hr color='#B18904'>
+<center><FONT COLOR=#DBA901>Clodoaldo Martins</center></h1>
+
+<center><img src="imgclodoaldo.jpeg" height="300px" width="300px"></center>
+ <h3 style="font-family:calibri;font-weight:400"><FONT COLOR=#F7F8E0>Dr. Cloaldo, o nosso advogado mais comunicativo, com o melhor networking e uma história linda de quem venceu a falta de estudo e hoje já está finalizando sua segunda pós graduação! Um orgulho para a família!</h3>
+<hr color='#B18904'>
+<h2>QUALIFICAÇÕES:</h2>
+<h4 style="font-family:calibri;font-weight:400"><center>Especialista em Direito e Processo Civíl</center></h4>
+<h4 style="font-family:calibri;font-weight:400"><center> Especializado em Advocacia Extrajudicial</center></h4>
+<h4 style="font-family:calibri;font-weight:600"><center>OAB/DF 60214</center></h4>
+<hr color='#B18904'>
+<center><a href=atps.html style="color:white;text-decoration:none;" align="right"> <img src="imgvoltar.png"  height="20px" width="20px"> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<A href=https://www.instagram.com/clodoaldoadv/ "> <img src="imginsta.png"  height="20px" width="20px"></p></center>
+</body>
+</html>
